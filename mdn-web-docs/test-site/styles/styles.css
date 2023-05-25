@@ -1,0 +1,44 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: 'Darumadrop One', cursive; /* this should be the rest of the output you got from Google Fonts */
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+/* Changing the page color */
+html {
+    background-color: #000000;
+}
+
+/* Styling the body */
+body {
+    width: 600px;
+    margin: 50px auto;
+    background-color: #F9CD1F;
+    padding: 0 20px 20px 20px;
+    border: 1px solid white;
+}
+
+/* Positioining and styling the main page title */
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 3px 3px 1px gray;
+}
+
+/* Centering the image */
+img {
+    display: block;
+    margin: 0 auto;
+}
