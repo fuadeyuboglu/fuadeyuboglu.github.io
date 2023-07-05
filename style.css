@@ -23,8 +23,8 @@ body {
 /* Add paddings to top-bottom left-right */
 #main-container {
     padding: 5% 3%;
+    
 }
-
 
 /* Set grid color */
 #project-1 {
@@ -82,12 +82,6 @@ body {
 .header .project-name {
     opacity: 100%;
     font-size: 30px;
-    margin-left: 40px;
-}
-
-.header .date {
-    opacity: 100%;
-    font-size: 20px;
     margin-left: 40px;
 }
 
