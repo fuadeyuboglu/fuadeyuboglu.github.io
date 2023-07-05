@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Set the background color to 'Light gray' */
+body {
+    background-color: #ffffffff;
+}
+
+
+/* Add paddings to top-bottom left-right */
+#main-container {
+    padding: 5% 3%;
+}
+
+
+/* Set grid color */
+#project-1 {
+    background-color: #1dac00ff;
+    color: #ffffff;
+}
+
+#project-2 {
+    background-color: #444444ff;
+    color: #ffffff;
+}
+
+#project-3 {
+    background-color: #ff1c1cff;
+    color: #ffffff;
+}
+
+#project-4 {
+    background-color: #ffbf00ff;
+    color: #ffffff;
+}
+
+#project-5 {
+    background-color: #1dac00ff;
+    color: #ffffff;
+}
+
+
+.grid-item {
+    margin-bottom: 40px;
+    padding: 20px;
+    border-radius: 7px;
+    font-size: 13px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
